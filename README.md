@@ -19,7 +19,8 @@
 
 * Tuần 4 - Xây dựng trang xem chi tiết hoa, giỏ hàng
 
-* ...
+* Tuần 5 - Xây dụng trang quản trị(Hoa, Đơn hàng)
+* Tuần 6 - Xây dụng trang quản trị(Khách hàng, Phân quyền quản trị)
 
 ## Tiến độ viết báo cáo:
 
@@ -31,4 +32,6 @@
 
 * Tuần 4 - Viết tiếp chương 2 (Một số biểu đồ Usecase, VOPC)
 
-* ...
+* Tuần 5 - Viết mô tả chi tiết usecase
+
+* Tuần 6 - Viết mô tả chi tiết usecase
