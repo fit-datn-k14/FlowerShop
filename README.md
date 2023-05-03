@@ -20,7 +20,14 @@
 * Tuần 4 - Xây dựng trang xem chi tiết hoa, giỏ hàng
 
 * Tuần 5 - Xây dụng trang quản trị(Hoa, Đơn hàng)
+
 * Tuần 6 - Xây dụng trang quản trị(Khách hàng, Phân quyền quản trị)
+
+* Tuần 7 - Xây dựng trang thống kê
+
+* Tuần 8 - Kiểm thử hệ thống
+
+* Tuần 9 - Chỉnh sửa một số lỗi - Hoàn thiện đề tài
 
 ## Tiến độ viết báo cáo:
 
@@ -35,3 +42,9 @@
 * Tuần 5 - Viết mô tả chi tiết usecase
 
 * Tuần 6 - Viết mô tả chi tiết usecase
+
+* Tuần 7 - Viết chương 3: Xây dựng ứng dụng
+
+* Tuần 8 - Viết chương 3: Kiểm thử
+
+* Tuần 9 - Viết kết luận. Hoàn thiện báo cáo
